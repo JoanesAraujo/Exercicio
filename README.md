@@ -23,5 +23,5 @@
 
 
 <p align="center">
-<img src="./img/screen.png" width="550" >
+<img src="./img/thumbnail.png" width="550" >
 </p>
