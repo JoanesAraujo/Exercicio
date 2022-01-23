@@ -1,5 +1,10 @@
 # 👨‍💻️ Minicurso Python de automação( excel -> python -> email ).
 
+
+<p align="center">
+<img src="./img/thumbnail.png" width="550" >
+</p>
+
 #### Ementa do Projeto:
 
 <ol>
@@ -21,7 +26,5 @@
 </ol>
 
 
-
-<p align="center">
-<img src="./img/thumbnail.png" width="550" >
-</p>
+</br>
+print("Ass: Joanes")
