@@ -1,4 +1,4 @@
-# 👨‍💻️ Mini curso Python de automação.
+# 👨‍💻️ Minicurso Python de automação.
 
 
 
